@@ -1,0 +1,20 @@
+{
+  "website": [
+    {
+      "url": "google.com",
+      "data": "Hej det er mig Google"
+    },
+    {
+      "url": "youtube.com",
+      "data": "Hej ven, kommer du snart og ser nogle videoer med mig?"
+    },
+    {
+      "url": "lectio.dk",
+      "data": "Jeg har det ikke så godt"
+    },
+    {
+      "url": "facebook.com",
+      "data": "Var der nogen der sagde data?!"
+    }
+  ]
+}
